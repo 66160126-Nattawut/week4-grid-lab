@@ -34,5 +34,5 @@ git commit -m "เพิ่ม Filter Animations"
 git add .
 git commit -m "เชื่อมต่อ JavaScript"
 git add README.md
-git commit -m "รวบรวมคำสั่ ง Git"
+git commit -m "คำสั่ง Git ทั้งหมด"
 git push origin main
